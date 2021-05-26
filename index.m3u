@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:-1,Young Sheldon
+#EXTINF:-1 tvg-id="" tvg-name="Season01" tvg-logo="" group-title="Young Sheldon",Season01
 https://omsa79.github.io/omsa/English-Series-AR/Young-Sheldon/s01.m3u
