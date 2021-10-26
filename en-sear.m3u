@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="https://s.3isk.video/wp-content/uploads/2021/01/marasli.jpg" group-title="Private Eyes-S01",E12
 https://oba3.fastcdn.online/hls/ftg4zqskprh473xqlscuab3af7hpgpsltboatwjtv4hrmkz5jw3tm6se3abq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E25" tvg-logo="https://arabseed.onl:2053/wp-content/uploads/2021/09/88-450x505.jpg" group-title="اجازة مفتوحة",E25
-https://files60.seeeed.xyz/d/jiqpfwvrfsrnuwfu7z6nf3vvu5amaffgfn7bbnepmynntav5nukxupne22tiaibcj2fmgxxg/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E26" tvg-logo="https://arabseed.onl:2053/wp-content/uploads/2021/09/88-450x505.jpg" group-title="اجازة مفتوحة",E26
-https://files38.seeeed.xyz/d/hyql7rfrfsrnuwfu7z6it2ha6zokombrbojiqdbvbiwr6diy57a7o7vwm25ifbjbkmegrvxp/video.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="E27" tvg-logo="https://arabseed.onl:2053/wp-content/uploads/2021/09/88-450x505.jpg" group-title="اجازة مفتوحة",E27
+https://files37.seeeed.xyz/d/h4qo7rfrfsrnuwfu7z6nj47lxj7hfi7otyb7imm5abpsged3n47aza2rmryyo76tv3wycyr6/video.mp4
