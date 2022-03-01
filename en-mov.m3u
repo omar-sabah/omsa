@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Ask mantik intikam E14" tvg-logo="https://akwam.link/thumb/260x380/uploads/GEcTc.jpg" group-title="مسلسلات تركية",Ask mantik intikam E14
 https://files29.seeeed.xyz/d/fmqc7ufrfsrnuwfu756j73nsvk5dgualvqb7gz6sklwa2wwypl4sjucq5bwjnbfq5t34cyni/video.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="EN: Past Obsessions " tvg-logo="https://image.tmdb.org/t/p/original/16rp0b9ay9vejqFKdqUOd7unwjb.jpg" group-title="VOD English",EN: Past Obsessions 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN: Pet Pals " tvg-logo="https://image.tmdb.org/t/p/original/vE1kppVaw5mMfz9U8FhMSF7OL0p.jpg" group-title="VOD English",EN: Pet Pals 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212685.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="KARADAYI" tvg-logo="https://s.3isk.video/wp-content/uploads/2020/07/2-5.jpg" group-title="مسلسلات تركية",KARADAYI E01
 https://s34.vidsharcdn.com/hls/pdompakikcm4f4kmlgosh7l3hxqmycfejvwphg3xmmutz57qetvk5zzwyupa/index-v1-a1.m3u8
