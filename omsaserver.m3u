@@ -11,5 +11,4 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="NEWS HD",AR:AL JAZEERA H
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL SHARQIYA NEWS HD" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="NEWS HD",AR:AL SHARQIYA NEWS HD
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w150590901.m3u8
-
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
