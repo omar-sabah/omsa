@@ -14,4 +14,6 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ALTAGHIER HD" tvg-logo="https://altaghier.tv/wp-content/uploads/2022/06/logo-altaghier-tv.png" group-title="NEWS HD",AR:ALTAGHIER HD
 https://stream-08.dc3.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6a1vh70di7EwEpYqAIEOm5TMVXJkGeT0FT6Z_g9qVP1)/dm/3/x7wkoiv/d/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:DIJLAH HD" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="NEWS HD",AR:DIJLAH HD
+https://stream-11.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmlGhiWDgKGgk2r4XCpqYk0x83pUZHSj6lNH8aOgmT13F)/dm/3/x7x328h/d/live-4.m3u8
 
