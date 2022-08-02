@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ NEWS HD CHANNELS ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://www.thecarrollnews.com/wp-content/uploads/2020/03/breaking-news-2.gif" group-title="NEWS HD",▁ ▂ ▄ ▅ ▆☆ NEWS HD CHANNELS ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL ARABIYA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS HD",AR:AL ARABIYA HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:ALHADATH HD" tvg-logo="https://lh4.ggpht.com/z27PkpQtGH3J8Mgbq1m2YVq1VEdtRDleoOeQdYN1TqeUf-l3B0JVFSoK862m-nJ7KUE" group-title="NEWS HD",AR:ALHADATH HD
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:SKY NEWS ARABIC HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="NEWS HD",AR:SKY NEWS ARABIC HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="NEWS HD",AR:AL JAZEERA HD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="Senden Daha Güzel" tvg-name="aydon" tvg-logo="https://eg1.arabseed.ink/wp-content/uploads/2022/01/88-385x550.png" group-title="مسلسلات تركية",Senden Daha Güzel
 https://files46.seeeed.xyz/d/gyqm4xnrfsrnuwfu4r6jzyxw7tw4xv5lptcpn2hsqd7k5fi53xs3sievwmyuod2pxw7q4fje/video.mp4
 
